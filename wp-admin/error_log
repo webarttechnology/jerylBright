@@ -1,0 +1,7 @@
+[21-Sep-2023 07:22:17 UTC] PHP Warning:  Attempt to read property "title" on null in /home/webbersunited/public_html/cms/jerylBright/wp-includes/class-wp-customize-widgets.php on line 905
+[21-Sep-2023 07:23:52 UTC] PHP Warning:  Attempt to read property "title" on null in /home/webbersunited/public_html/cms/jerylBright/wp-includes/class-wp-customize-widgets.php on line 905
+[26-Sep-2023 09:10:55 UTC] PHP Warning:  Attempt to read property "title" on null in /home/webbersunited/public_html/cms/jerylBright/wp-includes/class-wp-customize-widgets.php on line 905
+[09-Oct-2023 20:19:41 UTC] PHP Warning:  Attempt to read property "title" on null in /home/webbersunited/public_html/cms/jerylBright/wp-includes/class-wp-customize-widgets.php on line 905
+[10-Oct-2023 12:44:13 UTC] PHP Warning:  Attempt to read property "title" on null in /home/webbersunited/public_html/cms/jerylBright/wp-includes/class-wp-customize-widgets.php on line 905
+[13-Oct-2023 11:51:36 UTC] PHP Warning:  Attempt to read property "title" on null in /home/webbersunited/public_html/cms/jerylbright_old/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Oct-2023 10:03:31 UTC] PHP Warning:  Attempt to read property "title" on null in /home/webbersunited/public_html/cms/jerylbright_old/wp-includes/class-wp-customize-widgets.php on line 905
