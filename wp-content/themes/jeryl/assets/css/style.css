@@ -4459,5 +4459,40 @@ margin-bottom:23px;
 
 
 .pager-section .pager-content h2 {
-	font-family: 'Mystyline Decorative';
+	font-family: 'Mystyline Decorative';	
+}
+.abt-para .image-top img {
+	width: 100px;
+	margin-bottom: 100px;
+}
+.about-page-content .abt-para h2:before,
+.about-page-content .abt-para h2:after
+{
+	content: normal;
+}
+.about-page-content .abt-para p:before,
+.about-page-content .abt-para p:after
+{
+	content: normal;
+}
+.about-page-content .abt-para h2 {
+	color: #000 !important;
+	text-shadow: none;
+	animation: none;
+	font-size: 22px;
+	padding-bottom: 15px;
+}
+.about-page-content .abt-para h3 {
+	color: #000 !important;
+	padding-bottom: 15px;
+}
+.about-page-content .abt-para h1 {
+	font-size: 40px;
+}
+.about-page-content .abt-para p {
+	color: #000 !important;
+	text-shadow: none;
+	padding-bottom: 15px;
+	font-family: 'Barlow', sans-serif;
+	font-size: 14px;
 }
