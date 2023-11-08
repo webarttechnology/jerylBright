@@ -4456,3 +4456,8 @@ margin-bottom:23px;
 .about-page-content {
 	background: #fff!important;
 }
+
+
+.pager-section .pager-content h2 {
+	font-family: 'Mystyline Decorative';
+}
