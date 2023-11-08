@@ -1,0 +1,183 @@
+.black-version .album-section,
+.black-version .about-page-content{
+	background-color: #040404;
+}
+.black-version .tp-bgimg.defaultimg:before,
+.music-label-v .tp-bgimg.defaultimg:before,
+.producer-demo .tp-bgimg.defaultimg:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+/*     background: rgba(0,0,0,0.60); */
+	    background: rgb(255 255 255 / 3%);
+}
+
+
+.black-version .jp-controls button.jp-play {
+	background: #f7bd0d !important;
+}
+.black-version .alb-title > h2,
+.black-version .album-dt li > h4 {
+	color: #fff;
+}
+.black-version .album-playlist-section {
+	background: #242323;
+}
+.black-version .bt-btns li a.apple,
+.black-version .bt-btns li a.spotify:hover,
+.black-version .shows-row .theme-btn:hover,
+.black-version button.theme-btn,
+.black-version .bt-btns li a.apple,
+.black-version .bt-btns li a.spotify:hover,
+.black-version .shows-row .theme-btn:hover,
+.black-version .subs-form .theme-btn:hover,
+.black-version  .lds-ellipsis div,
+.black-version header nav ul ul,
+.black-version .divider-line,
+.option-set li a:before,
+.blog-info .btn-default,
+.marlon-pagination nav ul li a:hover,
+.marlon-pagination nav ul li a.active,
+.form-submit button,
+.form-submit button:hover,
+.tags li a:hover {
+	background-color: #f7bd0d;
+}
+.black-version .bt-btns li a {
+	color: #fff;
+	border-color: #fff;
+}
+.black-version .bt-btns li a.apple {
+	border-color: transparent;
+}
+.black-version .bottom-text p {
+	color: #fff;
+}
+.black-version .sm-btn,
+.black-version .theme-btn.sold-btn {
+	border-color: #f7bd0d;
+}
+
+.black-version header.sticky nav > ul > li > a:hover,
+.black-version header nav ul li a:hover {
+	color: #f7bd0d;
+}
+.black-version  header nav ul ul li a:hover {
+	color: #fff;
+}
+
+.dark-background,
+.blog-page {
+	background-color: #000000;
+	border-bottom: 1px solid #333;
+}
+.black-version .sm-title:before,
+.black-version header nav ul li.active:before {
+	background-color: #f8de07;
+}
+
+
+.black-version .overlay2:before {
+	background-color: rgba(247,189,13,0.74);
+}
+.black-version .gallery-col .overlay2 {
+	background-color: rgba(247,189,13,0.54);
+}
+.black-version .ct-head > h2,
+.black-version .wd-content > h3,
+.black-version .dp-text > h3,
+.black-version .wd-content ul li,
+.black-version .sm-title,
+.black-version .about-text > span,
+.black-version .social-links li a {
+	color: #fff;
+}
+.black-version .wd-content ul li,
+.black-version .dp-text > span,
+.black-version .mail-link,
+.black-version .ct-head > span {
+	color: rgba(255,255,255,0.80);
+}
+
+.black-version .ct-content {
+    background-color: #131314;
+    max-width: 600px;
+/* 	max-width: 1000px; */
+}
+.black-version .spotify-ic,
+.black-version .youtube {
+	background: #676060;
+}
+.black-version .soundcloud,
+.black-version .music {
+	background: #524e4e;
+}
+
+.black-version .social-links.v2 li a:hover,
+.black-version .em-icon i,
+.black-version .wd-content ul li a:hover,
+.black-version .wd-content ul li a,
+.black-version .social-links li a:hover,
+.black-version .alb-title > span,
+.black-version a.jp-playlist-item.jp-playlist-current,
+.black-version .jp-playlist li.jp-playlist-current:before,
+.black-version .show-info > span,
+.black-version .theme-btn.sold-btn,
+.black-version header.sticky .social-links.hd-v li a:hover,
+.option-set li a.selected,
+.meta > span,
+.blog-info > h2 a:hover,
+.reply-btn,
+.reply-btn:hover,
+.wd-info > span,
+.wd-info > h3:hover {
+	color: #f7bd0d;
+}
+
+
+
+.ms-abt-col > h4,
+.about-lg-content > h2,
+.tg-links li,
+.option-set li a,
+.email-link,
+.blog-info > h2,
+.meta-links li span,
+.author-info > h3,
+.cm-info > h3,
+.post-comment > h3,
+.widget-title,
+.wd-info > h3,
+.tags li a,
+.single-album-text > h2,
+.single-album-banner .sm-btn {
+	color: #fff;
+}
+.email-link {
+	border-color: #f8de07;
+}
+.email-link:hover {
+	color: #fff;
+}
+
+.blog-info p,
+.author-info p,
+.cm-info p,
+.single-album-text p {
+	color: rgba(255,255,255,0.80);
+}
+.marlon-pagination nav ul li a.active {
+	border-color: transparent;
+	color: #fff;
+}
+.blog-post.single .meta-links li:before {
+	background-color: #fff;
+}
+.comments-list > li:first-child > .comment,
+.comment,
+.wd-posts li {
+	border-bottom: 1px solid #333;
+}

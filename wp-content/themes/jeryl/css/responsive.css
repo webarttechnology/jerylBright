@@ -1,0 +1,741 @@
+@media(max-width:1199px) {
+
+
+    .navbar-top li a {
+        font-size: 13px;
+    }
+
+    .navbar-top li {
+        margin: 0 5px;
+    }
+
+    .about-sec:after {
+        display: none;
+    }
+
+    .banner-sec h1 {
+        font-size: 38px;
+    }
+
+    .navbar .navbar-brand img {
+        max-width: 109px;
+    }
+
+    .about-left h2 {
+        font-size: 30px;
+    }
+
+
+
+    .header-top-bar p {
+        display: none;
+    }
+
+    .footer-top h3 {
+        font-size: 15px;
+        margin: 20px 0 10px;
+    }
+
+    ul.footer-nav li a {
+        font-size: 14px;
+    }
+
+
+}
+
+/* @media(min-width: 992px) {
+    .navbar-top li:hover ul.dropdown-menu {
+        display: block;
+        margin-top: 0;
+    }
+} */
+
+
+
+
+@media(max-width:991px) {
+
+    .navbar-toggler .line:last-child {
+        margin-bottom: 0;
+    }
+
+    .navbar-toggler-icon {
+        background-image: url(../images/menu-icon.png);
+        height: 15px;
+        width: 18px;
+        background-repeat: no-repeat;
+    }
+
+
+
+    .navbar-top li ul.dropdown-menu li a:hover {
+        background-color: transparent;
+        border-bottom: 1px solid #f4f3f3;
+        color: rgb(214 189 189);
+        border-bottom: unset;
+    }
+
+    .navbar-toggler-icon:focus {
+        box-shadow: none;
+        border: none;
+        appearance: none;
+        -webkit-appearance: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+        border: none;
+        appearance: none;
+        -webkit-appearance: none;
+    }
+
+    .navbar-toggler-icon:hover {
+        box-shadow: none;
+        border: none;
+        appearance: none;
+    }
+
+    div#navbarSupportedContent {
+        background-color: #596774;
+        position: absolute;
+        top: 68px;
+        z-index: 9999;
+        width: 100%;
+        left: 0;
+    }
+
+    .navbar-top .navbar-nav li a.active {
+        transition: all 0.5s ease-in-out;
+        color: #fff;
+    }
+
+   
+
+    /* .navbar-nav .dropdown-menu {
+        position: static;
+        float: none;
+        visibility: visible;
+        display: block;
+    } */
+
+
+    .banner-sec .banner-content-inner h1 {
+        font-size: 25px;
+    }
+
+    .banner-form {
+        position: relative;
+        top: 0;
+        right: 0;
+        z-index: 99;
+        width: 93%;
+        max-width: 480px;
+        margin: 35px auto;
+        padding-bottom: 50px;
+    }
+
+
+    .navbar-top li a {
+        color: #fff;
+        padding: 6px 10px;
+        font-size: 15px;
+        display: block;
+    }
+
+
+
+    .navbar-top li ul.dropdown-menu li a {
+        color: #fff;
+        font-size: 14px;
+        padding: 8px 15px;
+        border-bottom: unset;
+    }
+
+    .navbar-top li a:hover {
+        color: #000;
+    }
+
+
+    .banner-sec h1 {
+        font-size: 30px;
+    }
+
+    .about-us-sec {
+        padding: 20px 0 0;
+    }
+
+    .about-left {
+        margin: 20px 26px;
+    }
+
+    .about-left h2 {
+        font-size: 25px;
+    }
+
+    .about-left p {
+        font-size: 14px;
+    }
+
+
+    ul.contact-info li a {
+        font-size: 13px;
+    }
+
+    .service-slider-inner {
+        background: transparent;
+    }
+
+    .service-slider-inner .slider-text-sec {
+        background: #f8f9fa;
+    }
+
+    /* .header-btn{display: none;} */
+
+    .common-banner {
+        padding: 50px 0;
+        position: relative;
+    }
+
+    .footer-logo {
+        margin-bottom: 25px;
+        max-width: 110px;
+    }
+
+    .copyright {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .design-text {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .header-top-bar {
+        padding: 6px 0 4px;
+        background-color: transparent;
+    }
+
+    .navbar-brand {
+        margin: 0px 0 0;
+    }
+
+    .navbar .navbar-brand img {
+        max-width: 90px;
+    }
+
+    .service-sec h2 {
+        font-size: 25px;
+    }
+
+    .service-sec h3 {
+        font-size: 16px;
+    margin-bottom: 20px;
+    }
+
+    .why-choose-content h2 {
+        font-size: 20px;
+        max-width: 186px;
+    }
+    .why-choose-content p {
+        font-size: 14px;
+        padding-right: 0px;
+    }
+
+    .service-sec .service-block p {
+        font-size: 15px;
+    }
+
+    .welcome-sec .btn {
+        padding: 6px 20px;
+        font-size: 15px;
+    }
+
+    .service-content p {
+        font-weight: 500;
+        font-size: 15px;
+    }
+
+    .about-sec:after {
+        display: none;
+    }
+
+    .approach-sec:after {
+        display: none;
+    }
+
+    .foot-frm .arrow-in {
+        display: none;
+    }
+
+    .about-right-text {
+        display: none;
+    }
+
+
+    .contact-wrapper {
+        width: 88%;
+        margin: auto;
+        display: block;
+    }
+
+    .get-contact-wrap {
+        margin-top: 45px;
+    }
+
+
+    .header-sec.sticky .navbar-brand img {
+        max-width: 80px;
+    }
+   
+
+    .about-inner-content h2 {
+        font-size: 25px;
+        margin-top: 15px;
+        max-width: unset;
+    }
+
+    .about-inner-content .para-text {
+        font-size: 14px;
+    }
+
+    .about-inner-content .image-box img {
+        width: 100%;
+        height: 310px;
+    }
+
+    .common-banner h2 {
+        font-size: 27px;
+    }
+
+    .breadcramp li {
+        font-size: 15px;
+    }
+
+    .service-inner-content h2 {
+        font-size: 30px;
+    }
+
+    .service-inner-content p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .banner-sec .banner-content-inner h1 {
+        margin: 40px 0 26px;
+        font-size: 20px;
+    }
+
+    .banner-form-inner .form-control {
+        height: 45px;
+    }
+    .banner-form-inner h2 {
+        font-size: 20px;
+    }
+
+    .banner-bottom-sec .inner-block .icon img {
+        max-height: 50px;
+    }
+    .why-choose-sec {
+        height: auto;
+    }
+    .why-choose-content{padding:24px 0px 24px 20px;}
+    .welcome-sec h2 {
+        font-size: 30px;
+    }
+
+    .service-sec .btn {
+        padding: 6px 20px;
+        font-size: 15px;
+    }
+
+    .why-choose-content .btn{
+        padding: 6px 20px;
+        font-size: 15px;
+    }
+
+    .review-sec {
+        padding: 30px 0 30px;
+    }
+
+    .review-sec h2 {
+        font-size: 18px;
+    }
+    .review-text-box p {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 1.3;
+    }
+
+    .book-appointement-sec h3 {
+        font-size: 18px;
+    }
+    .book-appointement-sec h2 {
+        font-size: 20px;
+    }
+
+    .book-appointement-sec .btn {
+        font-size: 15px;
+        padding: 9px 16px;
+        margin-top: 20px;
+    }
+
+    .contact-info-right {
+        padding: 25px 30px;
+    }
+    .contact-info-right ul li p {
+        font-size: 14px;
+    }
+    .contact-us-sec h3 {
+        font-size: 26px;
+    }
+    
+    
+
+}
+
+
+
+@media(max-width:767px) {
+    .banner-sec h1 {
+        margin: 10px 0 20px;
+    }
+    .navbar-top li.nav-item .calculator-btn {
+    background-color: #0264c0;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px 21px;
+    border-radius: 30px;
+    transition: 0.5s ease-in-out;
+    border: 1px solid transparent;
+    text-align: center;
+	margin-bottom: 20px;	
+}
+    .banner-sec img {
+        width: 100%;
+        height: 270px;
+        object-fit: cover;
+    }
+
+    .banner-sec .banner-content-inner h1 {
+        margin: 40px 0 26px;
+        font-size: 20px;
+        max-width: unset;
+    }
+
+    .about-inner-content .image-box {
+        margin-bottom: 20px;
+    }
+
+    .super-visa-ins img {
+        height: 320px;
+        object-fit: cover;
+    }
+
+    .banner-content-inner {
+        margin: -50px 0px 0px;
+    }
+
+    .super-visa-ins .super-visa-content h2 {
+        font-size: 24px;
+        color: #fff;
+        font-weight: 500;
+        line-height: normal;
+    }
+
+   
+
+    
+    .service-content p {
+        height: auto;
+    }
+
+    .who-we-right {
+        margin: 30px 50px;
+        max-width: unset;
+    }
+
+
+    .services-we-offer h2 {
+        font-size: 22px;
+    }
+
+    
+
+    
+
+    .service-slider-inner .slider-text-sec h3 {
+        font-size: 22px;
+        margin: 0 0 15px;
+    }
+
+    .service-slider-inner .slider-text-sec p {
+        font-size: 14px;
+        line-height: 1.7;
+    }
+
+    ul.footer-nav {
+        padding-bottom: 20px;
+    }
+
+    ul.header-top-inner li a i.fa-facebook {
+        display: none;
+    }
+
+    ul.header-top-inner li a i.fa-instagram {
+        display: none;
+    }
+
+    ul.header-top-inner li a i.fa-linkedin {
+        display: none;
+    }
+
+
+
+    .navbar .navbar-text {
+        font-size: 25px;
+    }
+
+   
+    .about-left h3 {
+        font-size: 20px;
+    }
+
+    .about-right {
+        text-align: center;
+        margin-top: 25px;
+    }
+
+    .about-right .about-main {
+        text-align: center;
+        max-width: 380px;
+    }
+
+
+    .about-sec .image-box {
+        border-radius: unset;
+        max-width: 400px;
+        margin: 0px auto 20px;
+    }
+
+      .service-box .icon {
+        max-width: 50px;
+        margin: 0px auto;
+    }
+
+    .call-now-sec h2 {
+        font-size: 20px;
+    }
+
+    .call-now-sec h3 {
+        font-size: 17px;
+    }
+
+    .about-sec .para-text {
+        padding-right: 0px;
+    }
+
+   
+
+    .about-sec .image-box img {
+        height: auto;
+    }
+
+  
+
+    .about-sec h2 {
+        font-size: 25px;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .about-sec .para-text {
+        color: #232323;
+        font-size: 15px;
+        font-weight: 500;
+        padding-left: 0;
+        text-align: center;
+    }
+
+ 
+
+    .footer-book-btn .btn {
+        font-size: 15px;
+    }
+
+    .banner-btn {
+        max-width: 150px;
+    }
+
+    .banner-btn img {
+        height: auto;
+    }
+
+    .super-visa-frm {
+        padding: 20px 20px;
+    }
+
+    .super-visa-frm .submit-btn {
+        padding: 8px 20px;
+        font-size: 16px;
+    }
+
+    .contact-us-sec h3 {
+        font-size: 24px;
+    }
+
+    .contact-info-right {
+        padding: 25px 30px;
+    }
+
+    .contact-us-sec .form-control {
+        height: 43px;
+        margin-bottom: 10px;
+    }
+
+    .common-banner {
+        padding: 50px 0;
+        position: relative;
+        clip-path: unset;
+    }
+
+    .banner-sec .banner-content-inner p {
+        font-size: 14px;
+        margin-bottom: 4px !important;
+        font-weight: bold;
+    }
+
+    .why-choose-sec .left-wrap{display: none;}
+
+    .review-sec .review-slider-sec .review-pic {
+        margin: auto;
+    }
+    .book-appointement-sec .btn {
+        float: left;
+    }
+
+    
+    .review-sec .para-text {
+        font-size: 15px;
+    }
+    .welcome-sec h2 {
+        font-size: 24px;
+        max-width: 270px;
+    }
+    .welcome-sec h3 {
+        font-size: 20px;
+    }
+
+    .welcome-sec .image-box {
+        max-width: 450px;
+        margin: auto;
+    }
+
+
+}
+
+@media(max-width:575px) {
+
+
+    .banner-sec h1 {
+        font-size: 20px;
+    }
+
+
+    .banner-sec .banner-sec-right img {
+        display: none;
+    }
+
+    .service-inner-content h2 {
+        font-size: 25px;
+    }
+
+    .service-inner-content h3 {
+        font-size: 22px;
+    }
+
+    .service-inner-content .image-box {
+        padding: 10px;
+    }
+
+    .service-inner-content .image-box img {
+        width: 100%;
+        height: 250px;
+    }
+
+    .common-banner h2 {
+        font-size: 24px;
+    }
+
+    .banner-sec p {
+        font-size: 14px;
+
+    }
+
+    .banner-sec .footer-top h3 {
+        font-size: 17px;
+        margin: 0 0 14px;
+    }
+
+    ul.footer-nav {
+        padding-bottom: 15px;
+    }
+
+    ul.footer-nav li a {
+        font-size: 14px;
+    }
+
+    
+
+    
+
+    .banner-sec .banner-content-inner .btn {
+        padding: 9px 19px;
+        font-size: 13px;
+    }
+
+    .meet-your-winner {
+        padding: 26px 0;
+    }
+
+    .what-client-say .slider-inner {
+        background-image: unset;
+        background-color: #011b31;
+        width: 100%;
+        height: 346px;
+    }
+
+    .design-text {
+        text-align: center;
+        font-size: 12px;
+    }
+
+
+
+
+}
+
+
+
+/* ============ desktop view ============ */
+@media all and (min-width: 992px) {
+    .navbar .nav-item .dropdown-menu {
+        display: none;
+    }
+
+    .navbar .nav-item:hover .dropdown-menu {
+        display: block;
+    }
+
+    .navbar .nav-item .dropdown-menu {
+        margin-top: 0;
+    }
+}
+
+#swipebox-close {
+    background-color: #000;
+    border: 1px solid #fff !important;
+}
+/* ============ desktop view .end// ============ */
+
+
