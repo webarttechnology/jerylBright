@@ -96,10 +96,20 @@
 <footer>
     <div class="container">
         <div class="row footer-content">
-            <div class="col-lg-5 col-md-5 text-md-left text-center">
+            <div class="col-lg-3 col-md-3 text-md-left text-center">
                 <div class="copyright">
                     <p>© Jeryl Bright <?php echo date('Y'); ?></p>
                 </div>
+            </div>
+			<div class="col-lg-2 col-md-2">
+                <div class="ft-logo text-center">
+                    <!--<img src="<?php
+                    // echo get_field('footer_logo',$page_id); 
+                    ?>" alt="">-->
+                    
+                   <img src="<?php echo get_site_url(); ?>/wp-content/uploads/2023/11/bizcuit-records-1.png" alt="">
+                    
+                </div><!--ft-logo end-->
             </div>
             <div class="col-lg-2 col-md-2">
                 <div class="ft-logo text-center">
